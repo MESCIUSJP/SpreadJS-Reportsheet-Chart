@@ -1,6 +1,6 @@
 // 日本語カルチャー設定
 GC.Spread.Common.CultureManager.culture("ja-jp");
-GC.Spread.Sheets.LicenseKey = "ここにSpreadJSのライセンスキーを設定します";
+//GC.Spread.Sheets.LicenseKey = "ここにSpreadJSのライセンスキーを設定します";
 
 // SpreadJSの設定
 document.addEventListener("DOMContentLoaded", () => {
