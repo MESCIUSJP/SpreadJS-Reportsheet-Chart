@@ -1,5 +1,5 @@
 # SpreadJS-Reportsheet-Chart
-SpreadJSの帳票開発機能「レポートシート」でチャートを使用した帳票のサンプルです。
+SpreadJSの帳票開発機能「レポートシート」でチャートやクロス集計表を使用したダッシュボード形式の帳票のサンプルです。
 
 ![image](https://github.com/user-attachments/assets/6ec531ca-d5e0-4904-ac2b-c0f286a2b724)
 
