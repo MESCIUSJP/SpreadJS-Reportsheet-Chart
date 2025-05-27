@@ -1,0 +1,661 @@
+{
+    "sales": [
+        {
+            "month": "2024/04",
+            "category": "家具",
+            "product": "ソファ",
+            "sales": 700000,
+            "store": "東京本店",
+            "age": "10代"
+        },
+        {
+            "month": "2024/04",
+            "category": "家電",
+            "product": "冷蔵庫",
+            "sales": 850000,
+            "store": "大阪支店",
+            "age": "20代"
+        },
+        {
+            "month": "2024/04",
+            "category": "食品",
+            "product": "チーズ",
+            "sales": 150000,
+            "store": "名古屋支店",
+            "age": "20代"
+        },
+        {
+            "month": "2024/04",
+            "category": "衣料品",
+            "product": "ズボン",
+            "sales": 300000,
+            "store": "福岡支店",
+            "age": "20代"
+        },
+        {
+            "month": "2024/05",
+            "category": "衣料品",
+            "product": "ズボン",
+            "sales": 400000,
+            "store": "東北支店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/05",
+            "category": "食品",
+            "product": "野菜セット",
+            "sales": 320000,
+            "store": "北海道支店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/05",
+            "category": "家具",
+            "product": "本棚",
+            "sales": 550000,
+            "store": "東京本店",
+            "age": "40代"
+        },
+        {
+            "month": "2024/05",
+            "category": "家具",
+            "product": "ソファ",
+            "sales": 600000,
+            "store": "名古屋支店",
+            "age": "40代"
+        },
+        {
+            "month": "2024/05",
+            "category": "家電",
+            "product": "掃除機",
+            "sales": 180000,
+            "store": "大阪支店",
+            "age": "50代"
+        },
+        {
+            "month": "2024/06",
+            "category": "家具",
+            "product": "本棚",
+            "sales": 100000,
+            "store": "名古屋支店",
+            "age": "40代"
+        },
+        {
+            "month": "2024/06",
+            "category": "家電",
+            "product": "掃除機",
+            "sales": 500000,
+            "store": "福岡支店",
+            "age": "50代"
+        },
+        {
+            "month": "2024/06",
+            "category": "食品",
+            "product": "果物詰め合わせ",
+            "sales": 350000,
+            "store": "東北支店",
+            "age": "60代以上"
+        },
+        {
+            "month": "2024/06",
+            "category": "衣料品",
+            "product": "ジャケット",
+            "sales": 600000,
+            "store": "北海道支店",
+            "age": "60代以上"
+        },
+        {
+            "month": "2024/07",
+            "category": "食品",
+            "product": "アイスクリーム",
+            "sales": 450000,
+            "store": "東京本店",
+            "age": "60代以上"
+        },
+        {
+            "month": "2024/07",
+            "category": "家電",
+            "product": "扇風機",
+            "sales": 700000,
+            "store": "大阪支店",
+            "age": "20代"
+        },
+        {
+            "month": "2024/07",
+            "category": "家具",
+            "product": "ベッド",
+            "sales": 900000,
+            "store": "名古屋支店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/07",
+            "category": "衣料品",
+            "product": "ジャケット",
+            "sales": 150000,
+            "store": "福岡支店",
+            "age": "40代"
+        },
+        {
+            "month": "2024/08",
+            "category": "家具",
+            "product": "ダイニングセット",
+            "sales": 120000,
+            "store": "東北支店",
+            "age": "40代"
+        },
+        {
+            "month":
+            "2024/08",
+            "category": "家電",
+            "product": "洗濯機",
+            "sales": 850000,
+            "store": "北海道支店",
+            "age": "40代"
+        },
+        {
+            "month": "2024/08",
+            "category": "食品",
+            "product": "冷凍食品セット",
+            "sales": 300000,
+            "store": "東京本店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/08",
+            "category": "衣料品",
+            "product": "サンダル",
+            "sales": 400000,
+            "store": "大阪支店",
+            "age": "50代"
+        },
+        {
+            "month": "2024/09",
+            "category": "家具",
+            "product": "ダイニングセット",
+            "sales": 950000,
+            "store": "名古屋支店",
+            "age": "50代"
+        },
+        {
+            "month": "2024/09",
+            "category": "家電",
+            "product": "パソコン",
+            "sales": 1200000,
+            "store": "福岡支店",
+            "age": "50代"
+        },
+        {
+            "month": "2024/09",
+            "category": "食品",
+            "product": "魚セット",
+            "sales": 280000,
+            "store": "東北支店",
+            "age": "20代"
+        },
+        {
+            "month": "2024/09",
+            "category": "衣料品",
+            "product": "コート",
+            "sales": 140000,
+            "store": "北海道支店",
+            "age": "10代"
+        },
+        {
+            "month": "2024/10",
+            "category": "家具",
+            "product": "クローゼット",
+            "sales": 600000,
+            "store": "東京本店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/10",
+            "category": "衣料品",
+            "product": "コート",
+            "sales": 700000,
+            "store": "大阪支店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/10",
+            "category": "食品",
+            "product": "缶詰セット",
+            "sales": 260000,
+            "store": "名古屋支店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/10",
+            "category": "家電",
+            "product": "スピーカー",
+            "sales": 400000,
+            "store": "福岡支店",
+            "age": "50代"
+        },
+        {
+            "month": "2024/11",
+            "category": "家具",
+            "product": "クローゼット",
+            "sales": 800000,
+            "store": "東北支店",
+            "age": "40代"
+        },
+        {
+            "month": "2024/11",
+            "category": "家電",
+            "product": "スピーカー",
+            "sales": 1500000,
+            "store": "北海道支店",
+            "age": "40代"
+        },
+        {
+            "month": "2024/11",
+            "category": "食品",
+            "product": "お菓子セット",
+            "sales": 380000,
+            "store": "東京本店",
+            "age": "10代"
+        },
+        {
+            "month": "2024/11",
+            "category": "衣料品",
+            "product": "マフラー",
+            "sales": 750000,
+            "store": "大阪支店",
+            "age": "60代以上"
+        },
+        {
+            "month": "2024/12",
+            "category": "家具",
+            "product": "クローゼット",
+            "sales": 900000,
+            "store": "名古屋支店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/12",
+            "category": "食品",
+            "product": "クリスマスケーキ",
+            "sales": 600000,
+            "store": "東京本店",
+            "age": "50代"
+        },
+        {
+            "month": "2024/12",
+            "category": "家電",
+            "product": "ゲーム機",
+            "sales": 1100000,
+            "store": "東京本店",
+            "age": "10代"
+        },
+        {
+            "month": "2024/12",
+            "category": "衣料品",
+            "product": "マフラー",
+            "sales": 450000,
+            "store": "大阪支店",
+            "age": "20代"
+        },
+        {
+            "month": "2025/01",
+            "category": "食品",
+            "product": "米",
+            "sales": 500000,
+            "store": "名古屋支店",
+            "age": "30代"
+        },
+        {
+            "month": "2025/01",
+            "category": "食品",
+            "product": "パン",
+            "sales": 300000,
+            "store": "名古屋支店",
+            "age": "30代"
+        },
+        {
+            "month": "2025/01",
+            "category": "家電",
+            "product": "テレビ",
+            "sales": 800000,
+            "store": "東京本店",
+            "age": "40代"
+        },
+        {
+            "month": "2025/01",
+            "category": "衣料品",
+            "product": "マフラー",
+            "sales": 600000,
+            "store": "東京本店",
+            "age": "50代"
+        },
+        {
+            "month": "2025/01",
+            "category": "家具",
+            "product": "テーブル",
+            "sales": 700000,
+            "store": "名古屋支店",
+            "age": "20代"
+        },
+        {
+            "month": "2025/02",
+            "category": "食品",
+            "product": "牛乳",
+            "sales": 200000,
+            "store": "東京本店",
+            "age": "10代"
+        },
+        {
+            "month": "2025/02",
+            "category": "家電",
+            "product": "電子レンジ",
+            "sales": 400000,
+            "store": "大阪支店",
+            "age": "20代"
+        },
+        {
+            "month": "2025/02",
+            "category": "家具",
+            "product": "テーブル",
+            "sales": 600000,
+            "store": "大阪支店",
+            "age": "30代"
+        },
+        {
+            "month": "2025/02",
+            "category": "衣料品",
+            "product": "マフラー",
+            "sales": 400000,
+            "store": "名古屋支店",
+            "age": "30代"
+        },
+        {
+            "month": "2025/03",
+            "category": "衣料品",
+            "product": "シャツ",
+            "sales": 350000,
+            "store": "東京本店",
+            "age": "40代"
+        },
+        {
+            "month": "2025/03",
+            "category": "家電",
+            "product": "エアコン",
+            "sales": 900000,
+            "store": "大阪支店",
+            "age": "30代"
+        },
+        {
+            "month": "2025/03",
+            "category": "食品",
+            "product": "卵",
+            "sales": 250000,
+            "store": "東京本店",
+            "age": "20代"
+        },
+        {
+            "month": "2025/03",
+            "category": "家具",
+            "product": "テーブル",
+            "sales": 1200000,
+            "store": "名古屋支店",
+            "age": "50代"
+        },
+        {
+           "month": "2024/04",
+            "category": "家電",
+            "product": "テレビ",
+            "sales": 680000,
+            "store": "東北支店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/04",
+            "category": "衣料品",
+            "product": "Tシャツ",
+            "sales": 520000,
+            "store": "北海道支店",
+            "age": "20代"
+        },
+        {
+            "month": "2024/05",
+            "category": "家具",
+            "product": "椅子",
+            "sales": 420000,
+            "store": "福岡支店",
+            "age": "40代"
+        },
+        {
+            "month": "2024/06",
+            "category": "食品",
+            "product": "お茶",
+            "sales": 280000,
+            "store": "東京本店",
+            "age": "50代"
+        },
+        {
+            "month": "2024/06",
+            "category": "衣料品",
+            "product": "スカート",
+            "sales": 630000,
+            "store": "大阪支店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/07",
+            "category": "家具",
+            "product": "タンス",
+            "sales": 810000,
+            "store": "東北支店",
+            "age": "40代"
+        },
+        {
+            "month": "2024/07",
+            "category": "家電",
+            "product": "乾燥機",
+            "sales": 950000,
+            "store": "北海道支店",
+            "age": "50代"
+        },
+        {
+            "month": "2024/08",
+            "category": "衣料品",
+            "product": "ブラウス",
+            "sales": 390000,
+            "store": "名古屋支店",
+            "age": "20代"
+        },
+        {
+            "month": "2024/09",
+            "category": "家電",
+            "product": "カメラ",
+            "sales": 740000,
+            "store": "東京本店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/10",
+            "category": "家具",
+            "product": "机",
+            "sales": 580000,
+            "store": "北海道支店",
+            "age": "40代"
+        },
+        {
+            "month": "2024/11",
+            "category": "衣料品",
+            "product": "コート",
+            "sales": 920000,
+            "store": "名古屋支店",
+            "age": "50代"
+        },
+        {
+            "month": "2024/12",
+            "category": "家電",
+            "product": "加湿器",
+            "sales": 670000,
+            "store": "東北支店",
+            "age": "30代"
+        },
+        {
+            "month": "2025/01",
+            "category": "家具",
+            "product": "棚",
+            "sales": 490000,
+            "store": "大阪支店",
+            "age": "40代"
+        },
+        {
+            "month": "2025/02",
+            "category": "衣料品",
+            "product": "ジャケット",
+            "sales": 830000,
+            "store": "福岡支店",
+            "age": "50代"
+        },
+        {
+            "month": "2025/03",
+            "category": "家電",
+            "product": "ドライヤー",
+            "sales": 570000,
+            "store": "東北支店",
+            "age": "20代"
+        },
+        {
+            "month": "2024/04",
+            "category": "家具",
+            "product": "テーブル",
+            "sales": 620000,
+            "store": "東北支店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/05",
+            "category": "家電",
+            "product": "イヤホン",
+            "sales": 780000,
+            "store": "北海道支店",
+            "age": "40代"
+        },
+        {
+            "month": "2024/06",
+            "category": "衣料品",
+            "product": "帽子",
+            "sales": 450000,
+            "store": "福岡支店",
+            "age": "50代"
+        },
+        {
+            "month": "2024/07",
+            "category": "食品",
+            "product": "お菓子",
+            "sales": 310000,
+            "store": "大阪支店",
+            "age": "20代"
+        },
+        {
+            "month": "2024/08",
+            "category": "家具",
+            "product": "椅子",
+            "sales": 590000,
+            "store": "福岡支店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/09",
+            "category": "衣料品",
+            "product": "シャツ",
+            "sales": 860000,
+            "store": "大阪支店",
+            "age": "40代"
+        },
+        {
+            "month": "2024/10",
+            "category": "家電",
+            "product": "炊飯器",
+            "sales": 640000,
+            "store": "東北支店",
+            "age": "50代"
+        },
+        {
+            "month": "2024/11",
+            "category": "食品",
+            "product": "お弁当",
+            "sales": 470000,
+            "store": "福岡支店",
+            "age": "20代"
+        },
+        {
+            "month": "2024/12",
+            "category": "家具",
+            "product": "ベッド",
+            "sales": 730000,
+            "store": "北海道支店",
+            "age": "30代"
+        },
+        {
+            "month": "2025/01",
+            "category": "衣料品",
+            "product": "ズボン",
+            "sales": 510000,
+            "store": "東北支店",
+            "age": "40代"
+        },
+        {
+            "month": "2025/02",
+            "category": "家電",
+            "product": "洗濯機",
+            "sales": 980000,
+            "store": "北海道支店",
+            "age": "50代"
+        },
+        {
+            "month": "2025/03",
+            "category": "家具",
+            "product": "ソファ",
+            "sales": 760000,
+            "store": "福岡支店",
+            "age": "30代"
+        },
+        {
+            "month": "2024/12",
+            "category": "衣料品",
+            "product": "手袋",
+            "sales": 630000,
+            "store": "福岡支店",
+            "age": "20代"
+        },
+        {
+            "month": "2025/01",
+            "category": "家電",
+            "product": "電気ストーブ",
+            "sales": 890000,
+            "store": "福岡支店",
+            "age": "30代"
+        },
+        {
+            "month": "2025/01",
+            "category": "食品",
+            "product": "おせち料理",
+            "sales": 1200000,
+            "store": "北海道支店",
+            "age": "50代"
+        },
+        {
+            "month": "2025/02",
+            "category": "家具",
+            "product": "こたつ",
+            "sales": 950000,
+            "store": "東北支店",
+            "age": "40代"
+        },
+        {
+            "month": "2025/03",
+            "category": "衣料品",
+            "product": "春物コート",
+            "sales": 780000,
+            "store": "北海道支店",
+            "age": "20代"
+        }
+    ]
+}
