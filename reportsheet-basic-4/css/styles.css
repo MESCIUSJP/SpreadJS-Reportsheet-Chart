@@ -2,17 +2,17 @@ body {
     width: 1130px;
 }
 
-.btn-container{
+.btn-container {
     margin: 15px;
  }
 
 .show-area {
     margin: 15px;
     border: solid black;
-    height:670px
+    height:670px;
 }
 
-#ss{
+#ss {
     width:1095px;
-    height:670px
+    height:670px;
 }
